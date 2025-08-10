@@ -24,4 +24,3 @@ Streamlit (web application framework)
 
 Various audio libraries for feature extraction and processing
 
-Installation

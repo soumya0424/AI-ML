@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+websockets
+whisper
+vad-pkg         # replace with actual VAD package name
+diarization-pkg # replace with actual diarization package name
+aasist-pkg      # replace with actual anti-spoofing package name
+elevenlabs-tts
